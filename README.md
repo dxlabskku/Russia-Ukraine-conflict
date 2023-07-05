@@ -26,4 +26,7 @@ Negative Emotion, Anger, and Anxiety features compared to conservative media art
 ![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/d269a563-a631-4c7e-991b-619897470a7e)
 
 >Through RQ.1, it was confirmed that there is a sentimental difference between articles produced by conservative and progressive media on the Russia-Ukraine issue. Therefore, the task of constructing a model through verified media data and inputting and classifying Government data was performed.
-We used XGB and BERT models. To address the task using each model, XGB achieved an accuracy of 90.92%, while BERT outperformed with an accuracy of 98.37%. Based on the accuracy, we finally conducted a classifying Government data task with BERT model. 
+We used XGB and BERT models. To address the task using each model, XGB achieved an accuracy of 90.92%, while BERT outperformed with an accuracy of 98.37%. Based on the accuracy, we finally conducted a classifying Government data task with BERT model.
+
+![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b89b317b-7643-4b55-838b-25ee259ee5d8)
+
