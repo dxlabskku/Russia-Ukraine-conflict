@@ -11,6 +11,7 @@ Additionally, analyzing the positions of the media as well as the U.S. governmen
 ---------------------------------------
 
 ## Data
+We collected 2types of data. those are Media data, which are articles produced by media outlets, and Government data released by 4 different government departments.
 ![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b8b96356-f638-4803-913f-29cda8f16ada)
 
 
