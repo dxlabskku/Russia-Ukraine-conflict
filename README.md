@@ -30,3 +30,6 @@ We used XGB and BERT models. To address the task using each model, XGB achieved 
 
 ![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b89b317b-7643-4b55-838b-25ee259ee5d8)
 
+By classifying 64 instances as conservative and 227 instances as progressive, we confirmed that the policies and directions of the
+Biden administration encompasses a notable progressive element
+
