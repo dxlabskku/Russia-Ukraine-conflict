@@ -8,10 +8,28 @@ Traditionally, media engage in continuous discourse and reflect their positions.
 Additionally, analyzing the positions of the media as well as the U.S. government, particularly relevant government departments, provides a broad perspective on that issue. Therefore, we have the next research question as follows.
 
 > RQ.2 : Which stance does the U.S. government have?
-
+---------------------------------------
 
 ## Data
-d	
-	d![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/4d9c000f-de9f-4d09-9b51-e20e5e3be8cd)
+|Category|Political orientation|Data Source|Quantity|
+|-|---|---|---|
+|Media Data|Conservative|Fox|--|--|
+|||WSJ|---|
+|||Forbes|---|
+|||Breitbart|---|
+||Progressive|NYT|---|
+|||Politico|---|
+|||PBS|---|
+|||The Guradian|---|
+|||CNN|---|
+|||MSNBC|---|
+|||NPR|---|
+|||The Washington Post|---|
+|||Vox|---|
+|------|---|WhiteHouse|---|
+|------|---|DoT|---|
+|------|---|DoD|---|
+|------|---|DoS|---|
+
 
 
