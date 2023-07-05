@@ -11,7 +11,7 @@ Additionally, analyzing the positions of the media as well as the U.S. governmen
 ---------------------------------------
 
 ## Data
-![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/02afa0bf-5b3e-4ba0-a90e-9dc980c3bc7a)
+![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b8b96356-f638-4803-913f-29cda8f16ada)
 
 
 ---------------------------------------
