@@ -20,4 +20,7 @@ We collected 2types of data. those are Media data, which are articles produced b
 
 ## Experiment
 To find out RQ.1, we classified articles by media according to political orientation and analyzed them through LIWC. LIWC selected 5 features related to this issue and conducted a series of t-tests for each feature to verify whether there was a difference between progressive and conservative media. After that, the average values ​​were compared to find out what meaning was implied.
+The result of the t-test revealed that there were differences between articles from conservative and progressive media at a significance level of p < 0.01. Moreover, through the Affect feature, we confirmed that progressive media articles employ a more emotional tone in addressing the issue compared to conservative media articles. Specifically, we found that progressive media articles incorporate more
+Negative Emotion, Anger, and Anxiety features compared to conservative media articles. Lastly, it was observed that conservative media articles tend to focus more on the security threat (Risk ) posed by the Russia-Ukraine conflict.
 
+![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/d269a563-a631-4c7e-991b-619897470a7e)
