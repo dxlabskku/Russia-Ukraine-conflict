@@ -31,5 +31,8 @@ Additionally, analyzing the positions of the media as well as the U.S. governmen
 |||DoD|65|
 |||DoS|40|
 
+---------------------------------------
 
+## Experiment
+To find out RQ.1, we classified articles by media according to political orientation and analyzed them through LIWC. LIWC selected 5 features related to this issue and conducted a series of t-tests for each feature to verify whether there was a difference between progressive and conservative media. After that, the average values ​​were compared to find out what meaning was implied.
 
