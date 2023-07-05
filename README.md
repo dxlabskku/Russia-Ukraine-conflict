@@ -13,23 +13,23 @@ Additionally, analyzing the positions of the media as well as the U.S. governmen
 ## Data
 |Category|Political orientation|Data Source|Quantity|
 |-|---|---|---|
-|Media Data|Conservative|Fox|--|--|
-|||WSJ|---|
-|||Forbes|---|
-|||Breitbart|---|
-||Progressive|NYT|---|
-|||Politico|---|
-|||PBS|---|
-|||The Guradian|---|
-|||CNN|---|
-|||MSNBC|---|
-|||NPR|---|
-|||The Washington Post|---|
-|||Vox|---|
-|------|---|WhiteHouse|---|
-|------|---|DoT|---|
-|------|---|DoD|---|
-|------|---|DoS|---|
+|Media Data|Conservative|Fox|1,891|
+|||WSJ|1,202|
+|||Forbes|1,061|
+|||Breitbart|95|
+||Progressive|NYT|854|
+|||Politico|678|
+|||PBS|493|
+|||The Guradian|463|
+|||CNN|311|
+|||MSNBC|298|
+|||NPR|239|
+|||The Washington Post|163|
+|||Vox|73|
+|Government Data||WhiteHouse|119|
+|||DoT|67|
+|||DoD|65|
+|||DoS|40|
 
 
 
