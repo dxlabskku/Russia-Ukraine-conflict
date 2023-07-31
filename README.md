@@ -25,7 +25,7 @@ Exp-1) Comparative process between conservative and progressive articles
 ![bar_graph](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/f9a43448-0bce-48fa-9085-b0a0864eab05)
 
 Exp-2) Classifying Government data
- - we compare 2 model: XGB, BERT
+ - we compare 2 models: XGB, BERT
  - BERT achieved better performance in the validation step
  - finally, we classified with the BERT model
-> result : Conservative : 64 / Progressive : 227
+> result : conservative: 64 / progressive: 227
