@@ -21,7 +21,7 @@ We collected 2 types of data, 8,104 Media data, which are articles produced by n
 Exp-1) Comparative process between conservative and progressive articles 
  - we conducted sentiment analysis using LIWC
  - we selected 7 categories with considering the political orientation
- - result : conservative(family, positive emotion), progressive(past focus, anxiety, affect, negative emotion, future focus)
+> result : conservative(family, positive emotion), progressive(past focus, anxiety, affect, negative emotion, future focus)
 ![bar_graph](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/f9a43448-0bce-48fa-9085-b0a0864eab05)
 
 Exp-2) Classifying Government data
