@@ -13,25 +13,19 @@ Additionally, we conducted an extra experiment, building a classification model 
 ---------------------------------------
 
 ## Data
-We collected 2types of data. those are Media data, which are articles produced by media outlets, and Government data released by 4 different government departments.
-
-![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b8b96356-f638-4803-913f-29cda8f16ada)
-
+We collected 2 types of data, 8,104 Media data, which are articles produced by news media, and 291 Government data released by 4 different government departments.
 
 ---------------------------------------
 
 ## Experiment and Result
->To find out RQ.1, we classified articles by media according to political orientation and analyzed them through LIWC. LIWC selected 5 features related to this issue and conducted a series of t-tests for each feature to verify whether there was a difference between progressive and conservative media. After that, the average values ​​were compared to find out what meaning was implied.
-The result of the t-test revealed that there were differences between articles from conservative and progressive media at a significance level of p < 0.01. Moreover, through the Affect feature, we confirmed that progressive media articles employ a more emotional tone in addressing the issue compared to conservative media articles. Specifically, we found that progressive media articles incorporate more
-Negative Emotion, Anger, and Anxiety features compared to conservative media articles. Lastly, it was observed that conservative media articles tend to focus more on the security threat (Risk ) posed by the Russia-Ukraine conflict.
+Exp-1) Comparative process between conservative and progressive articles 
+ - we conducted sentiment analysis using LIWC
+ - we selected 7 categories with considering the political orientation
+ - conservative: family, positive emotion / progressive: past focus, anxiety, affect, negative emotion, future focus
+![bar_graph](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/f9a43448-0bce-48fa-9085-b0a0864eab05)
 
-![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/d269a563-a631-4c7e-991b-619897470a7e)
-
->Through RQ.1, it was confirmed that there is a sentimental difference between articles produced by conservative and progressive media on the Russia-Ukraine issue. Therefore, the task of constructing a model through verified media data and inputting and classifying Government data was performed.
-We used XGB and BERT models. To address the task using each model, XGB achieved an accuracy of 90.92%, while BERT outperformed with an accuracy of 98.37%. Based on the accuracy, we finally conducted a classifying Government data task with BERT model.
-
-![image](https://github.com/dxlabskku/Russia-Ukraine-conflict/assets/122080807/b89b317b-7643-4b55-838b-25ee259ee5d8)
-
-By classifying 64 instances as conservative and 227 instances as progressive, we confirmed that the policies and directions of the
-Biden administration encompasses a notable progressive element
-
+Exp-2) Classifying Government data
+ - we compare 2 model: XGB, BERT
+ - BERT achieved better performance in the validation step
+ - finally, we classified with the BERT model
+> result : Conservative : 64 / Progressive : 227
