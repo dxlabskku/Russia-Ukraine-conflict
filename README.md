@@ -5,6 +5,7 @@ On Feb 24, 2022, the Russia-Ukraine conflict broke out, and the United States go
 Thus, we tried to explore that state of affairs through news media and addressed the research question below
 > RQ.1: Do the articles written by the news media on the issue of the
 The Russia-Ukraine conflict contains a political orientation of its own.
+> 
 > RQ.2: Is it feasible to explore it in a computational approach?
 Additionally, we conducted an extra experiment, building a classification model and classifying the United States government's official documents regarding the Russia-Ukraine issue.
 ---------------------------------------
